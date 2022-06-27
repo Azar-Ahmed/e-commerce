@@ -1,0 +1,14 @@
+
+ADMIN PANEL
+    - Sub Categories
+        
+ FRONT ENS
+
+    - slider
+    - product detail    
+       - change img according to color
+       - change size according to color
+       - condition in add to cart if attr is not added
+    - join error give multiple record if attr is more then one (shop page)     
+    - price slider range
+    -implode explode
